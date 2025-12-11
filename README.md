@@ -1,5 +1,4 @@
 # Python Automation and Games
-# umair khan
 This repository contains four Python scripts focused on games and automation tasks.
 
 ## Projects
@@ -45,3 +44,4 @@ Automatically organizes files in your Downloads folder by extension into categor
 - Categorizes files (e.g., Documents, Images, Videos)  
 - Handles duplicate filenames with timestamps  
 - Logs actions in `file_organizer.log`  
+## UET peshawar jalozai campus
